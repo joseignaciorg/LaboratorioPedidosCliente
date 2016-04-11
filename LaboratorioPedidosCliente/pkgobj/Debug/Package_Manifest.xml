@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d44575db-0f16-4c08-b9ff-eccd5df66826" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="LaboratorioPedidosCliente_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

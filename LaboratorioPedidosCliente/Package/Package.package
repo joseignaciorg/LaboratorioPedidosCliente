@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="d44575db-0f16-4c08-b9ff-eccd5df66826" 
+        solutionId="d44575db-0f16-4c08-b9ff-eccd5df66826" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="LaboratorioPedidosCliente"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="328914f5-d764-4c27-9a39-0d4861c428f2" />
+  </features>
+</package>

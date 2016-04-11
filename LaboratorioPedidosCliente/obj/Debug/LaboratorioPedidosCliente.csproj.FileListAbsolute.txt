@@ -1,0 +1,3 @@
+c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioPedidosCliente\LaboratorioPedidosCliente\bin\Debug\LaboratorioPedidosCliente.pdb
+c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioPedidosCliente\LaboratorioPedidosCliente\obj\Debug\LaboratorioPedidosCliente.dll
+c:\users\ericame\documents\visual studio 2015\Projects\LaboratorioPedidosCliente\LaboratorioPedidosCliente\obj\Debug\LaboratorioPedidosCliente.pdb
